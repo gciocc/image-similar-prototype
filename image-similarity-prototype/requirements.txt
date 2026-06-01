@@ -1,0 +1,16 @@
+# Dataset
+datasets>=2.19.0
+huggingface-hub>=0.23.0
+Pillow>=10.0.0
+
+# Embedding (CLIP leggero, adatto a CPU/GPU)
+torch>=2.1.0
+open-clip-torch>=2.24.0
+
+# Ricerca per similarità
+numpy>=1.26.0
+faiss-cpu>=1.8.0
+
+# Interfaccia
+gradio>=4.31.0
+tqdm>=4.66.0
